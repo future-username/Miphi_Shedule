@@ -1,5 +1,3 @@
 requests
-lxml
 bs4
-aiogram
-pysocks
+aiogram==2.25.1
