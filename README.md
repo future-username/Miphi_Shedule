@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Использование
 
-1. В корне репозитория создайте файл `config.py` и добавьте следующие строки:
+1. В файле `config.py` и мзмените следующие строки:
 
 ```python
 token = 'YOUR_TELEGRAM_BOT_TOKEN'
